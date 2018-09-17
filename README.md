@@ -1,3 +1,15 @@
+![alt text](https://covers.oreillystatic.com/images/0636920065869/lrg.jpg)
+![alt text](https://covers.oreillystatic.com/images/0636920063698/lrg.jpg)
+![alt text](https://images.manning.com/720/960/resize/book/2/a05976a-7251-47f4-a168-a84715e8b701/Stevens-DLPy-MEAP-HI.png)
+![alt text](https://covers.oreillystatic.com/images/0636920063445/rc_lrg.jpg)
+
+# [AnchorModeling] for Input–output model [Межотраслевые Балансы]
+![alt text](http://www.anchormodeling.com/wp-content/uploads/2010/08/AMatDSV.jpg)
+
+[ClickHouse vs Vertica vs GreenPlum] Сравнение производительности аналитических СУБД  
+https://clickhouse.yandex/benchmark.html
+
+
 # darch12
 **Скрипты к статьям (RU)**
 
